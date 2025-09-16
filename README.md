@@ -75,7 +75,7 @@ This project demonstrates key programming concepts such as **loops, conditional 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Calculator-project.git
+   git clone https://github.com/udaysai-kandregula/Calculator-project.git
 
 ✨ Now your README ends with a **“Thank You” section** that feels complete and professional.  
 
